@@ -1,3 +1,3 @@
-ASP
+AStable Packetizer (ASP)
 
-external soundcard software
+this is just a personal project.
