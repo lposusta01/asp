@@ -1,0 +1,6 @@
+
+asp <filename> -e/d (encode/decode)
+stream.open(<filename>)
+e -> encode
+d -> decode
+return e/d
