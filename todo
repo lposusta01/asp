@@ -1,6 +1,3 @@
-
-asp <filename> -e/d (encode/decode)
-stream.open(<filename>)
-e -> encode
-d -> decode
-return e/d
+1. "hijack" mixxx audio playback
+2. finish codec utilities
+3. implement scripting/automation
