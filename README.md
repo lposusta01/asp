@@ -4,8 +4,16 @@ A personal project inspired by Composers Desktop Project (https://github.com/Com
 
 Various audio processing tools including FX and some signal processing tools.
 
-Currently planned:
-Denoiser
-Standard FX (reverb, downsample, bit crush, soft clipper, etc)
-GUI?
-Scripting language interface type thing
+Currently "planned":
+denoiser
+reverb
+downsample
+bitcrush
+pitch
+time stretch
+soft clip
+delay
+normalize
++/- gain
+EQ
+scripting language interface type thing
