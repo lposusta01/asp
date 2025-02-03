@@ -1,4 +1,4 @@
-Aggregated Sound Processors (ASP)
+Assorted Sound Processors (ASP)
 
 A personal project inspired by Composers Desktop Project (https://github.com/ComposersDesktop/CDP7)
 
